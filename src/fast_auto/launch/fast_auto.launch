@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="fast_auto" type="fast_fly" name="fast_fly"   output="screen" ></node>
+</launch>

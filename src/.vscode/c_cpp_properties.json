@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/agoni/catkin_ws/devel/include/**",
+        "/home/agoni/ws_livox/devel/include/**",
+        "/home/agoni/first_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/agoni/first_ws/src/beginner_tutorials/include/**",
+        "/home/agoni/catkin_ws/src/catvehicle/include/**",
+        "/home/agoni/catkin_ws/src/gazebo_ros_pkgs/gazebo_plugins/include/**",
+        "/home/agoni/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros/include/**",
+        "/home/agoni/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros_control/include/**",
+        "/home/agoni/first_ws/src/hector_slam/hector_geotiff/include/**",
+        "/home/agoni/first_ws/src/hector_slam/hector_map_tools/include/**",
+        "/home/agoni/first_ws/src/hector_slam/hector_mapping/include/**",
+        "/home/agoni/first_ws/src/hector_slam/hector_marker_drawing/include/**",
+        "/home/agoni/first_ws/src/localization/include/**",
+        "/home/agoni/first_ws/src/px4_offboard/include/**",
+        "/home/agoni/first_ws/src/serial/include/**",
+        "/home/agoni/catkin_ws/src/sicktoolbox/include/**",
+        "/home/agoni/first_ws/src/tfmini_ros/include/**",
+        "/home/agoni/competish_ws/src/uav_path/include/**",
+        "/home/agoni/first_ws/src/usb_cam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
